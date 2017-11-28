@@ -1,5 +1,4 @@
-1) KaggleProjects
-Emergency 911 Calls-Data Projects from Kaggle:
+1) From Kaggle: Emergency 911 Calls-Data Projects
 
 
         https://www.kaggle.com/mchirico/montcoalert
