@@ -1,8 +1,10 @@
-1) From Kaggle: Emergency 911 Calls-Data Projects
-
+1) From Kaggle: Emergency 911 Calls-Data Project
 
         https://www.kaggle.com/mchirico/montcoalert
 
 2) Financial Crisis Data Project:
-    Focused on exploratory data analysis of stock prices. Focusing on bank stocks and see how they progressed throughout the financial    crisis all the way to 2016. I used pandas to directly read data from Google finance.
+        Focused on exploratory data analysis of stock prices. Focusing on bank stocks and see how they progressed throughout the financial         crisis all the way to 2016. I used pandas to directly read data from Google finance.
+    
+3) Decision Tree and Random Forest Project:
+        Publicly available data from LendingClub.com, I will be using lending data from 2007-2010 and trying to classify and predict               whether or not the borrower paid back their loan in full.
     
