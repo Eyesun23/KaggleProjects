@@ -9,5 +9,5 @@
         Publicly available data from LendingClub.com, I will be using lending data from 2007-2010 and trying to classify and predict               whether or not the borrower paid back their loan in full.
         
 4) K-Means Clustering:
-        For this project, I will attempt to use KMeans Clustering to cluster Universities into to two groups, Private and Public.
+        For this project, I attempted to use KMeans Clustering to cluster Universities into to two groups, Private and Public.
     
