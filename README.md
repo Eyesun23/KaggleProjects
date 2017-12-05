@@ -14,5 +14,7 @@
 5) Natural Language Processing: 
         I build a spam detection filter by conducting exploratory data analysis and I did text pre-processing, vectorization,TF-IDF,               training the model, and created pipeline.
 
-6) Yelp Review Data Set from Kaggle: In this NLP project I attempted to classify Yelp Reviews into 1 star or 5 star categories based off           the text content in the reviews. 
+6) Yelp Review Data Set from Kaggle: 
+                https://www.kaggle.com/c/yelp-recsys-2013
+           In this NLP project I attempted to classify Yelp Reviews into 1 star or 5 star categories based off the text content                      in the reviews. 
     
