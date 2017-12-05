@@ -10,4 +10,7 @@
         
 4) K-Means Clustering:
         For this project, I attempted to use KMeans Clustering to cluster Universities into to two groups, Private and Public.
+
+5) Natural Language Processing: 
+        I build a spam detection filter by conducting exploratory data analysis and I did text pre-processing, vectorization,TF-IDF,               training the model, and created pipeline.
     
